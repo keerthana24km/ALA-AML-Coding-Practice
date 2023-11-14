@@ -1,0 +1,7 @@
+{
+    "best parameters": {
+        "knn_classify__metric": "euclidean",
+        "knn_classify__n_neighbors": 6,
+        "knn_classify__weights": "distance"
+    }
+}
